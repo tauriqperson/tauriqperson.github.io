@@ -49,7 +49,7 @@ a:hover {
 
 /* Layout */
 .page-wrapper {
-    max-width: 1200px;
+    max-width: auto;
     margin: 0 auto;
     padding: 0 20px;
 }
@@ -168,7 +168,7 @@ a:hover {
     transform: translateY(-5px);
 }
 
-.tech-used {
+.app-used {
     font-style: italic;
     color: var(--dark-gray);
     font-size: 0.9rem;
